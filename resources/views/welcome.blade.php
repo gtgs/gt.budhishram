@@ -41,7 +41,7 @@
 		<div class="container">
 			<div class="content">
 				<div class="title">Budhishram</div>
-				<div class="quote">Let that brain play!</div>
+				<div class="quote">Let those little brains play!</div>
 			</div>
 		</div>
 	</body>
